@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A01466C5-C77A-4CA9-B11B-682BC68553DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../test/LambdaDemo.Tests/FunctionTest.cs">
+    <Files>
+      <File FileName="../../test/LambdaDemo.Tests/FunctionTest.cs" Line="7" Column="23" />
+      <File FileName="aws-lambda-tools-defaults.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LambdaDemo" expanded="True">
+            <Node name="LambdaDemo" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="LambdaDemo.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="FunctionTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LambdaDemo.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

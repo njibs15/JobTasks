@@ -1,0 +1,6 @@
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/publish/LambdaDemo.deps.json
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/publish/LambdaDemo.runtimeconfig.json
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/publish/LambdaDemo.pdb
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/publish/LambdaDemo.dll

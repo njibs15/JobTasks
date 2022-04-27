@@ -1,0 +1,17 @@
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/linux-x64/LambdaDemo.deps.json
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/linux-x64/LambdaDemo.runtimeconfig.json
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/linux-x64/LambdaDemo.dll
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/linux-x64/LambdaDemo.pdb
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/LambdaDemo.csproj.AssemblyReference.cache
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/LambdaDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/LambdaDemo.AssemblyInfoInputs.cache
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/LambdaDemo.AssemblyInfo.cs
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/LambdaDemo.csproj.CoreCompileInputs.cache
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/LambdaDemo.csproj.CopyComplete
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/LambdaDemo.dll
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/refint/LambdaDemo.dll
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/LambdaDemo.pdb
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/LambdaDemo.genruntimeconfig.cache
+/Users/aristide/Desktop/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/ref/LambdaDemo.dll
